@@ -1,5 +1,5 @@
 ---
-title: Android 签名机制迭代（更新ing）
+title: Android 签名机制及迭代浅析
 date: 2020-04-14 22:35:52
 tags: [Android]
 ---
