@@ -377,3 +377,11 @@ V3 方案还没有正式开放，在最新版的Build Tools 版本28.0.3中的Ap
 [https://developer.android.google.cn/studio/command-line/apksigner#usage-verify](https://developer.android.google.cn/studio/command-line/apksigner)
 
 到这里，就了解完了签名的机制，下一篇讲下android的打包机制。感谢支持
+
+### 参考文档：
+
+•**应用签名** https://source.android.google.cn/security/apksigning
+
+•**Android 签名机制 v1、v2、v3** https://www.jianshu.com/p/9ca1d6f3f083
+
+•**APK签名机制原理详解** https://www.jianshu.com/p/286d2b372334
