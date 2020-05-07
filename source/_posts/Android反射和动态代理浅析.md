@@ -4,6 +4,8 @@ date: 2020-04-21 21:14:45
 tags: [Android,java]
 ---
 
+<meta name="referrer" content="no-referrer"/>
+
 # 提纲
 
 - java反射基础
